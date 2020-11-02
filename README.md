@@ -2,7 +2,7 @@
 
 Link: https://django-mytodolist.herokuapp.com/
 
-I created this app to practice using Django and Bootstrap, as well as to get more familiar with HTML/CSS. The app is deployed on Heroku and has a fully functioning postgreSQL database connected through Amazon Web Services. 
+I created this app to practice using Django and Bootstrap, as well as to get more familiar with HTML/CSS. The app is deployed on Heroku and has a fully functioning postgreSQL database connected through AWS. 
 
 Functionality:
 1. Create a username/password
